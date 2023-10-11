@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.profile-img{
+  border-top-right-radius: 24px;
+  border-top-left-radius: 24px;
+  position: relative;
+  top: .3rem;
+  width: 22rem;
+}
